@@ -1,0 +1,1 @@
+<annotations><filename>00000074.JPEG</filename><folder>images</folder><size><width>1280</width><height>1237</height><depth>3</depth></size><object><name>Brown Bear</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>329.0000000000001</xmin><ymin>110.0</ymin><xmax>1078.0</xmax><ymax>929.0</ymax></bndbox></object></annotations>
